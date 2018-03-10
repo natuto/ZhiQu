@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">支趣</string>
+    <string name="home">首页</string>
+    <string name="ganhuo">干货</string>
+    <string name="movie">电影</string>
+    <string name="fuli">福利</string>
+    <string name="about">关于</string>
+    <string name="theme">主题</string>
+    <string name="done">确定</string>
+    <string name="cancel">取消</string>
+    <string name="douban">豆瓣热映</string>
+</resources>
